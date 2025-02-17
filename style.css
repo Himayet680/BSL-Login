@@ -1,0 +1,31 @@
+body{
+    padding:50px;
+}
+.container{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(143, 160, 142, 0.938);
+    max-width: 600px;
+    margin:0 auto;
+    padding:50px;
+    border-radius: 10px;
+    box-shadow:  rgba(87, 105, 87, 0.753) 0px 7px 29px 0px;
+    
+}
+.form-group{
+    margin-bottom:30px;
+    box-shadow: rgba(37, 10, 10, 0.938) 0px 7px 10px 0px;
+}
+.wel{
+    
+    margin:0 auto;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgba(143, 160, 142, 0.938);
+    max-width: 600px;
+    padding:50px;
+    border-radius: 10px;
+    box-shadow:  rgba(87, 105, 87, 0.753) 0px 7px 29px 0px;
+}
+.wel2{
+    position: relative;
+    margin-left: 150px;
+}
